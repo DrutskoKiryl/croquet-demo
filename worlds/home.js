@@ -233,7 +233,7 @@ export function init(Constants) {
                 type: "3d",
             }
         },
-        {
+        /*{
             card: {
                 translation: [2.387, 1.523, 13.663],
                 rotation: [0.14, 0.7071067811865476, -0.1, 0.7071067811865476],
@@ -251,7 +251,7 @@ export function init(Constants) {
                 shadow: true,
                 type: "3d",
             }
-        },
+        },*/
         {
             card: {
                 name: "home to office img portal",
@@ -577,7 +577,7 @@ export function init(Constants) {
                 type: "3d",
             }
         },
-        {
+        /*{
             card: {     
                 translation: [-2.418881828697503, 0.6725593178198047, 10.683995889291086],
                 rotation: [-0.3946385858162169, 0.5867134773183125, -0.5796748032603606, -0.4049750666190363],
@@ -592,7 +592,7 @@ export function init(Constants) {
                 singleSided: true,
                 type: "3d",
             }
-        },
+        },*/
         {
             card: {    
                 translation: [-5.7501244286234, 0.1538633138092611, -2.9688506367664065],
